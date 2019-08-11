@@ -1,0 +1,26 @@
+body
+{
+	background-color:#ffe6c4;
+}
+
+table
+{
+	font-family:Arial;
+	border-collapse: collapse;
+	border-radius:10px;
+	table-layout:fixed;
+	background-color:#ff78f8;
+	padding:10px;
+}
+
+tr:hover
+{
+	background-color:#ff38f7;
+	color:#000000;
+}
+
+
+.link:hover
+{
+	text-shadow: 1px 1px;
+}
