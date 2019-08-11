@@ -7,6 +7,7 @@ This project is made using HTML+CSS, PHP and SQL languages and the Database Serv
 1. Apache Server
 2. MySQL Server
 3. phpMyAdmin
+
 **You can install XAMPP Control Panel and select these options while installing**
 
 # Steps
