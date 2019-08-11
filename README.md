@@ -12,7 +12,7 @@ This project is made using HTML+CSS, PHP and SQL languages and the Database Serv
 
 # Steps
 1. Install the pre-requisites
-2. Copy the Project files in the directory **"C:/xampp/htdocs/MyProject"** folder
+2. Copy the **"MyProject"** folder in the directory **"C:/xampp/htdocs/"** folder
 3. Edit the files **"CONNECTION.php"** and **"PHP/Necessary Initially.php"** to change the MySQL user and password (root:123456 by default).
 4. Open XAMPP and Start "Apache" and "MySQL".
 5. Open up any Browser and go to **"http://localhost/MyProject/PHP/Necessary%20Initially.php"** for the initial Database Setup.
